@@ -1,28 +1,85 @@
-<h1 align="center">Hi 👋, I'm Dhruv Rathod</h1>
-<h3 align="center">iOS App Developer | Vice President of RCPU | Tech Enthusiast</h3>
+<h1 align="center">🚀 Hi there, I'm Dhruv Rathod 👋</h1>
+<h3 align="center">iOS App Developer | VP @ RCPU | Tech Explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv3761&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv3761" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruv3761" alt="dhruv3761" /></a> </p>
-
-- 🔭 I’m currently working on mobile app development with SwiftUI and backend integrations **FoodForAll**
-
-- 🌱 I’m currently learning **advanced iOS techniques, SwiftUI, cloud technologies, and the MERN stack**
-
-- 💬 Ask me about **iOS development, Swift, MVC/MVVM, MERN stack, and API design**
-
-- 📫 How to reach me **dhurvrath@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/d___3761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d___3761" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhruv3761&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv3761" />
+  <img src="https://img.shields.io/github/followers/dhruv3761?label=Follow&style=social" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv3761&show_icons=true&locale=en&layout=compact" alt="dhruv3761" /></p>
+### 🧠 About Me  
+- 🔭 Currently working on **FoodForAll** using **SwiftUI + Firebase**
+- 🌱 Exploring **Advanced iOS Dev**, **SwiftUI Animations**, **Cloud Functions**, and **MERN Stack**
+- 🧩 Passionate about solving real-world problems through **clean UI** and **robust backend**
+- 💬 Ask me about **Swift**, **iOS architecture (MVC, MVVM)**, **APIs**, **MERN**, and **Firebase**
+- 📫 Reach me at: **dhurvrath@gmail.com**
+- 🎯 Always learning. Always building.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruv3761&show_icons=true&locale=en" alt="dhruv3761" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv3761&" alt="dhruv3761" /></p>
+### 📱 Connect with Me
+
+<p align="left">
+  <a href="https://instagram.com/d___3761" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:dhurvrath@gmail.com">
+    <img src="https://img.shields.io/badge/Email-DhruvRathod-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/dhruv3761">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhruv3761&theme=onedark&column=7" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruv3761&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv3761&layout=compact&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv3761&theme=radical" width="60%" />
+</p>
+
+---
+
+### 🌟 Featured Project
+
+> 🚧 **FoodForAll** – A mobile-first, cloud-connected app for food redistribution and zero waste, using SwiftUI + Firebase
+
+---
+
+### 💡 Fun Fact  
+I love building UIs that *look great*, *feel smooth*, and *solve real problems* ✨
+
+---
+
+> *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
